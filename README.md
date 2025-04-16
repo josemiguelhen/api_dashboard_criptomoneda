@@ -32,7 +32,12 @@ Crear un panel de control dinámico que permita:
 
 ## 📂 Estructura del repositorio
 
-/Dashboard_Criptomonedas/ ├── dashboard_criptomonedas.pbix ├── abrir_dashboard.bat ├── README.md ├── capturas/ │ ├── dashboard_completo.png │ └── kpis_tarjetas.png
+/Dashboard_Criptomonedas/
+├── dashboard_criptomonedas.pbix
+├── abrir_dashboard.bat ├── README.md 
+├── capturas/ │ 
+├── dashboard_completo.png
+│ └── kpis_tarjetas.png
 
 ## ✨ Capturas de pantalla
 
