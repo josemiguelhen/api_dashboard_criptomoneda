@@ -45,7 +45,9 @@ Crear un panel de control dinámico que permita:
 ![Dashboard completo](capturas/dashboard_completo.png)
 
 ### Tarjetas KPI destacadas
-![KPIs](capturas/kpis_tarjetas.png)
+![KPIs](capturas/tarjeta1.png)
+![KPIs](capturas/tarjeta2.png)
+![KPIs](capturas/tarjeta3.png)
 
 ## 🚀 Autor
 
